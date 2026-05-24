@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.logo{
+  font-family: 'Indie Flower', cursive;
+  font-size: 32px;
+}
